@@ -15,6 +15,10 @@ I'm particularly interested in **customer analytics, business intelligence, cust
 - **Analytics & Reporting:** KPI development, performance monitoring, data visualization, and business reporting
 - **Tools:** PostgreSQL, VS Code, Git, and GitHub
 
+## 🤖 AI-Assisted Analytics
+
+I use AI tools, including ChatGPT, Claude, and Claude Code, to enhance data analysis, Power BI development, dashboard design, and problem-solving.
+
 ## 📊 Featured Project
 
 ### [Retail Customer Intelligence — SQL](https://github.com/alaa-aloran/retail-customer-intelligence-sql)
