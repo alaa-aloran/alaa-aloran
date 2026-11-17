@@ -19,17 +19,25 @@ I'm particularly interested in **customer analytics, business intelligence, cust
 
 I use AI tools, including ChatGPT, Claude, and Claude Code, to enhance data analysis, Power BI development, dashboard design, and problem-solving.
 
-## 📊 Featured Project
+## 📊 Featured Projects
 
 ### [Retail Customer Intelligence — SQL](https://github.com/alaa-aloran/retail-customer-intelligence-sql)
 
-An end-to-end SQL analysis exploring retail purchasing behavior, customer value, and retention opportunities using the dunnhumby *The Complete Journey* dataset.
+Analyzed retail purchasing behavior across 2,500 households using the dunnhumby *The Complete Journey* dataset.
 
-**Highlights:**
-- Analyzed purchasing behavior across 2,500 households.
-- Investigated customer spending patterns and value drivers.
+- Explored purchasing patterns, customer value, and spending behavior.
 - Applied RFM segmentation to identify customer groups and engagement opportunities.
-- Translated SQL findings into business recommendations.
+- Translated analytical findings into business recommendations.
+
+**Tools:** PostgreSQL, SQL, VS Code
+
+### [Coffee Shop Sales & Operational Performance — SQL](https://github.com/alaa-aloran/coffee-shop-sales-performance-sql)
+
+Analyzed 53,820 transactions across three Indonesian food-and-beverage outlets to evaluate sales performance and purchasing patterns.
+
+- Compared outlet revenue, transaction volume, and monthly sales trends.
+- Identified peak purchasing hours, payment preferences, and loyalty transaction patterns.
+- Developed operational recommendations to support management decisions.
 
 **Tools:** PostgreSQL, SQL, VS Code
 
@@ -40,18 +48,3 @@ Customer Analytics · Business Intelligence · Customer Retention · Operational
 ## 🔗 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/ala-a-al-oran-msc-pmp%C2%AE-1ab922103/)
-
-<!--
-**alaa-aloran/alaa-aloran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
